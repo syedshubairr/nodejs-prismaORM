@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-prisma",
+  "version": "1.0.0",
+  "description": "Prisma ORM in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedshubairr/nodejs-prismaORM.git"
+  },
+  "author": "Syed Shubair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedshubairr/nodejs-prismaORM/issues"
+  },
+  "homepage": "https://github.com/syedshubairr/nodejs-prismaORM#readme"
+}
